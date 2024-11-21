@@ -1,1 +1,1 @@
-# Soft-Uni-Final-Project
+This is my final project for Soft Uni. It's made with django and postgresql.
